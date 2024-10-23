@@ -7,7 +7,7 @@ service: your_services
 
 
 provider:
-  name: aws
+  name: your_file_name
   runtime: nodejs20.x
   memorySize: 128
   region: your_aws_region
